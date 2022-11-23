@@ -1,0 +1,10 @@
+Developer Fundamentals
+
+1. Dont read the dictionary
+Its almost like youre trying to learn a language by readinh
+a dictionary from page one all the way to page 1200.
+but thats not how thing works..
+Most of programers use Google! 
+use phyton docs.
+
+ 

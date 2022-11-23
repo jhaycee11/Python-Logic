@@ -1,0 +1,8 @@
+Programming languages is a language of computer which is 0 and 1
+in short its binary. The code JS PY and JAR is a human language that
+will be send to INTERPRETER and COMPILER to translate to the machine
+
+INTERPRETER - Read the lines of code 1 by 1 and execute each line.
+
+COMPILER - translate all lines of a program to a file, usually called a binary, and execute the whole file at once
+
